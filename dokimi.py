@@ -1,5 +1,5 @@
 i=1
-for z in 10:
-  print z
+while i<=10:
+  print ("%d" % i)
   i += 1
  
